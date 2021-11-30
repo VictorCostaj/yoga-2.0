@@ -1,7 +1,7 @@
 # yoga-2.0
 
 
-<img src="./assets/Yoga.png" alt="logo-yoga">
+<img src="./assets/Yoga.png"  width="250px" alt="logo-yoga">
 
 > <Strong> Project yoga - CodeClub <strong>
 
